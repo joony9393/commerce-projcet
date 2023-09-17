@@ -1,12 +1,16 @@
 # SpringBoot - commerce project
 회원가입을 통해 회원을 받고 장바구니 기능을 구현, 상품 재고를 관리하는 프로젝트
 
-## 사용기술
-- SpringBoot
-- SpringDataJPA
-- SpringSecurity
-- Redis
-- MySQL
+### Tech Stack
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
+
 
 ## 프로젝트 기능
 ### 회원 관리
