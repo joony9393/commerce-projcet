@@ -26,4 +26,5 @@
 - [ ] 특정 상품 재고 업데이트
 - [ ] 특정 상품 재고 삭제
 
-![commerce-table](https://github.com/joony9393/commerce/assets/86875215/31e015cf-2949-4a4d-a14a-baddfb696845)
+![commerce-table](https://github.com/joony9393/commerce-projcet/assets/86875215/62bfad46-8dc2-44d6-870a-e44d9a2c4976)
+
