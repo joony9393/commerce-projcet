@@ -40,5 +40,6 @@
    - 로그인한 사용자는 권한에 관계 없이 댓글을 작성할 수 있다. 
    - 사용자는 댓글 내용(텍스트)를 작성할 수 있다. 
 
-![commerce-table](https://github.com/joony9393/commerce-projcet/assets/86875215/62bfad46-8dc2-44d6-870a-e44d9a2c4976)
+![erd](https://github.com/joony9393/commerce-project/assets/86875215/d1a1ffe7-3bf3-4048-8bd1-4b16b7dd4d38)
+
 
